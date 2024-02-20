@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/particle/static/css/main.4a127b01.css",
+    "main.js": "/particle/static/js/main.a30a1732.js",
+    "static/js/787.86e70ff7.chunk.js": "/particle/static/js/787.86e70ff7.chunk.js",
+    "index.html": "/particle/index.html",
+    "main.4a127b01.css.map": "/particle/static/css/main.4a127b01.css.map",
+    "main.a30a1732.js.map": "/particle/static/js/main.a30a1732.js.map",
+    "787.86e70ff7.chunk.js.map": "/particle/static/js/787.86e70ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a127b01.css",
+    "static/js/main.a30a1732.js"
+  ]
+}
